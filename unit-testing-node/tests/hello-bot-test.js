@@ -11,6 +11,6 @@ describe('Hello Bot Testing', function() {
     //you can have another method test down here
     //for example
     // it('greetingToPerson should return ' + helloBot.hello_const + helloBot._person, function() {
-    //     expect(helloBot.greeting).to.equal(hello_const + helloBot._person);
+    //     expect(helloBot.greetingToPerson).to.equal(hello_const + helloBot._person);
     // }); 
 });
